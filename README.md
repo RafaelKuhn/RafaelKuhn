@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rafael, also called Lestat 👨‍💻</h1>
-<h3 align="center">A passionate game developer and techincal artist from Brazil</h3>
+<h3 align="center">A passionate developer and techincal artist from Brazil</h3>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
