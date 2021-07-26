@@ -32,8 +32,8 @@
 
 <h3 align="left">🧐 Statistics:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&theme=monokai" alt="rafaelkuhn-trophy-stats" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&theme=monokai" alt="rafaelkuhn-trophy-stats" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&hide_rank=true&bg_color=30,bf0010,720b98&hide=stars" alt="rafaelkuhn-stats" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&hide_rank=true&bg_color=30,bf0010,720b98&hide=stars" alt="rafaelkuhn-stats" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&bg_color=30,bf0010,720b98&langs_count=6" alt="rafaelkuhn-language-stats" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&bg_color=30,bf0010,720b98&langs_count=6&hide=html,css" alt="rafaelkuhn-language-stats" /></a></p>
