@@ -32,6 +32,6 @@
 
 <h3 align="left">🧐 Statistics:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn" alt="rafaelkuhn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&theme=dracula" alt="rafaelkuhn-trophy-stats" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&show_icons=true&locale=en&layout=compact" alt="rafaelkuhn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=dracula&layout=compact&locale=en" alt="rafaelkuhn-language-stats" /></p>
