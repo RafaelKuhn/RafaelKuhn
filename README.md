@@ -5,7 +5,7 @@
 <p align="left">
 
   <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130636508-e56bf9ca-984d-4c66-9544-4409d02a34b3.png" alt="unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  <a href="https://unrealengine.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130640251-b08ed324-2fb9-4510-8dca-d58216d9171e.png" alt="unreal" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
