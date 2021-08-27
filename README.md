@@ -7,7 +7,7 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130636508-e56bf9ca-984d-4c66-9544-4409d02a34b3.png" alt="unity" width="40" height="40"/></a>
   <a href="https://unrealengine.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130640251-b08ed324-2fb9-4510-8dca-d58216d9171e.png" alt="unreal" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130335208-e854193e-b5fe-48e2-8e15-70d0e42a5ee7.png" alt="three.js" width="40" height="40"/>
   </a>
