@@ -21,6 +21,9 @@
   </a>
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/131052392-36ff9bb5-4703-499c-af92-a78481a2fa91.png" alt="kotlin" width="40" height="40"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
