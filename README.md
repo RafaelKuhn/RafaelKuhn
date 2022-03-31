@@ -17,9 +17,6 @@
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"></a>
 </p>
 
-
-<h3 align="left">🧐 Statistics:</h3>
-
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&theme=monokai&row=1" alt="rafaelkuhn-trophy-stats" ></a> </p>
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&bg_color=30,bf0010,720b98&langs_count=6&hide=html,css" height="160" alt="rafaelkuhn-language-stats" ></a></p>
