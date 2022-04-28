@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Rafael 🤔👋</h1>
+<h1 align="center">Hello, I'm Rafael 👋🤔</h1>
 <p align="center">I work with computer graphics, games and gamified apps<p>
 
 <h3 align="left">🛠️ Languages and Tools (clickable):</h3>
