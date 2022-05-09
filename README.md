@@ -24,4 +24,4 @@ Graphics developer and forever student<br>Working with games and gamified apps
 <br>
 
 <!-- from https://github.com/anuraghazra/github-readme-stats! -->
-<a href="https://github.com/rafaelkuhn?tab=repositories&type=source"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=dracula&layout=compact&locale=en&bg_color=30,bf0010,720b98&langs_count=7&hide=php,css,html,makefile&layout=compact" alt="rafaelkuhn-language-stats" ></a>
+<a href="https://github.com/rafaelkuhn?tab=repositories&type=source"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=monokai&layout=compact&locale=en&langs_count=7&hide=php,css,html,makefile&layout=compact" alt="rafaelkuhn-language-stats" ></a>
