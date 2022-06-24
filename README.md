@@ -17,10 +17,11 @@ Graphics developer and forever student<br>Working with games and gamified apps
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"></a>
 
 <br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&theme=monokai&row=1" alt="rafaelkuhn-trophy-stats" ></a>
-
-<br>
+<div align="left">
+  <a href="https://github.com/rafaelkuhn?tab=repositories&type=source"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=monokai&layout=compact&locale=en&langs_count=5&hide=php,shaderlab,css,html,makefile,c&layout=compact" alt="rafaelkuhn-language-stats" height="250"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&column=3&row=2&theme=monokai&row=1&hide=Issues" alt="rafaelkuhn-trophy-stats" height="250" ></a>
+    
+  
+ </div>
 
 <!-- from https://github.com/anuraghazra/github-readme-stats! -->
-<a href="https://github.com/rafaelkuhn?tab=repositories&type=source"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=monokai&layout=compact&locale=en&langs_count=7&hide=shaderlab,css,html,makefile,c&layout=compact" alt="rafaelkuhn-language-stats" ></a>
