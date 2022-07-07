@@ -20,6 +20,6 @@ Graphics developer and forever student<br>Working with games and gamified apps
 <div align="left">
   <a href="https://github.com/rafaelkuhn?tab=repositories&type=source"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelkuhn&theme=monokai&layout=compact&locale=en&langs_count=5&hide=php,shaderlab,css,html,makefile,c&layout=compact" alt="rafaelkuhn-language-stats" height="250"></a>
   &nbsp
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&margin-w=15&margin-h=15&column=3&row=2&theme=monokai" alt="rafaelkuhn-trophy-stats" height="250" ></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelkuhn&margin-w=15&margin-h=15&column=3&row=2&theme=monokai&title=MultiLanguage,Commits,PR,Followers,Repositories,Stars" alt="rafaelkuhn-trophy-stats" height="250" ></a>
     
  </div>
