@@ -1,4 +1,6 @@
 # Rafael "Lestat" Kuhn
+![a](https://img.shields.io/badge/badges_are-cringe-blue)
+<br>
 > _He who seeks wisdom is a wise man;  
 > He who thinks he has found it is a mad man._  
 > \- Lucius Annaeus Seneca
