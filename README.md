@@ -1,5 +1,7 @@
 # Rafael "Lestat" Kuhn
-![a](https://img.shields.io/badge/badges_are-cringe-blue)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-kuhn/) [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://www.rafaelkuhn.com)<br><br>
+[![](https://img.shields.io/badge/badges_are-cringe-blue)](https://shields.io/)
 <br>
 > _He who seeks wisdom is a wise man;  
 > He who thinks he has found it is a mad man._  
