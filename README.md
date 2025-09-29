@@ -13,14 +13,14 @@ Graphics developer and forever student<br>Working with games and gamified apps
 
 ### 🛠️ Languages and Tools (clickable):
 
-  <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130636508-e56bf9ca-984d-4c66-9544-4409d02a34b3.png" alt="unity" width="40" height="40"></a>
-	<a href="https://threejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/130335208-e854193e-b5fe-48e2-8e15-70d0e42a5ee7.png" alt="three.js" width="40" height="40"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"></a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/e744b56c-06b5-418a-97eb-cb1f9a202708" alt="csharp" width="34" height="39"></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4fd08c43-5ded-429f-9b12-3ff06a723f77" alt="rustlang" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git scm" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://user-images.githubusercontent.com/47254941/131052392-36ff9bb5-4703-499c-af92-a78481a2fa91.png" alt="kotlin" width="40" height="40"></a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+<a href="https://unity.com/"><img src="https://user-images.githubusercontent.com/47254941/130636508-e56bf9ca-984d-4c66-9544-4409d02a34b3.png" height="40"></a>
+<a href="https://threejs.org/"><img src="https://user-images.githubusercontent.com/47254941/130335208-e854193e-b5fe-48e2-8e15-70d0e42a5ee7.png" height="40"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"></a>
+<a href="https://isocpp.org/"><img src="https://github.com/user-attachments/assets/e744b56c-06b5-418a-97eb-cb1f9a202708" height="39"></a>
+<a href="https://www.rust-lang.org/" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4fd08c43-5ded-429f-9b12-3ff06a723f77" height="40"/></a>
+<a href="https://git-scm.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/47254941/131052392-36ff9bb5-4703-499c-af92-a78481a2fa91.png" height="40"></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"></a>
 
 <!--
  https://isocpp.org/assets/images/cpp_logo.png
